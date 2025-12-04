@@ -9,10 +9,14 @@
 #    nev = input(f"A(z) {i+1}. név: ")
 #    ek= input(f"A(z) {i+1}. életkor: ")
 #    lista.append(ek)
-#    
+#    hsz = input("Hajszine: ")
 #    emberek[nev] = lista
-#legidosebb = max(kor),key==emberek.get
-#print("A legidősebb: {legidosebb}")
+#max =0
+#i=0
+#for x in emberek:
+#if int(emberek[x][0]) > int(max)
+#max=int(emberek[x][0])
+#i=x
 
 emberek = {}
 

@@ -3,7 +3,7 @@
 n = (input("Kérek egy számot: "))
 
 ossz = 0
-szamJegy = 0
+
 
 for i in range(len(n)):
     ossz = ossz + int(n[i])
